@@ -1,4 +1,4 @@
-<header>
+<headerstatus.style.color
   <span id="chatUser">اختر مستخدم</span>
   <button onclick="toggleHide()">👻</button>
 </header>
